@@ -16,6 +16,13 @@ I love taking photos in my spare time, welcome to [take a look](https://500px.me
 
 ## Publications
 
+<img align="left" width="210" height="140" src="resources/csca.png">
+
+**_Cross-scale Cost Aggregation Integrating Intrascale Smoothness Constraint with Weighted Lease Squares in Stereo Matching_**　　　　　　　<br>
+**Hao Ma**, Shunyi Zheng, Chang Li, Yingsong Li, Li Gui, Rongyong Huang<br>
+_Journal of the Optical Society of America A – optics, image science and vision_, 2017<br>
+[Paper](https://doi.org/10.1364/JOSAA.34.000648)<br>
+
 <img align="left" width="210" height="140" src="resources/2021ctfnet.jpg">
 
 **_Consistent Two-Flow Network for Tele-Registration of Point Clouds_**　　　　　　　<br>
