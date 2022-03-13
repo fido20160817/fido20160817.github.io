@@ -23,38 +23,6 @@ I love taking photos in my spare time, welcome to [take a look](https://500px.me
 _Journal of the Optical Society of America A – optics, image science and vision_, 2017<br>
 [Paper](https://doi.org/10.1364/JOSAA.34.000648)<br>
 
-<img align="left" width="210" height="140" src="resources/2021ctfnet.jpg">
-
-**_Consistent Two-Flow Network for Tele-Registration of Point Clouds_**　　　　　　　<br>
-**Zihao Yan**, Zimu Yi, Ruizhen Hu, Niloy J. Mitra, Daniel Cohen-Or, Hui Huang<br>
-_IEEE Transactions on Visualization and Computer Graphics_, 2021<br>
-[Project Page](https://vcc.tech/research/2021/CTFNet)<br>
-
-
-<img align="left" width="210" height="140" src="resources/2019rpmnet.jpg">
-
-**_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_**　　　　　　　　<br>
-**Zihao Yan**, Ruizhen Hu, Xingguang Yan, Luanmin Chen, Oliver van Kaick, Hao Zhang, Hui Huang<br>
-_ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2019<br>
-[Project Page](https://vcc.tech/research/2019/RPMNet)<br>
-
-
-<img align="left" width="210" height="140" src="resources/2018pgdnn.jpg">
-
-**_Predictive and Generative Neural Networks for Object Functionality_**　　　　　　　　<br>
-Ruizhen Hu, **Zihao Yan**, Jingwen Zhang, Oliver van Kaick, Ariel Shamir, Hao Zhang, Hui Huang<br>
-_ACM Transactions on Graphics (Proc. SIGGRAPH)_, 2018<br>
-[Project Page](https://vcc.tech/research/2018/ICON4)<br>
-
-
-<img align="left" width="210" height="140" src="resources/2017fetch.jpg">
-
-**_Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields_**<br>
-Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
-_ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2017<br>
-[Project Page](https://vcc.tech/research/2017/Fetch1)<br>
-<br>
-
 * * *
 
 ## Activities
