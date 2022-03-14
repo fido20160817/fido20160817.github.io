@@ -6,7 +6,8 @@ layout: default
 
 ## Biography
 
-2021.4 - now, I am currently a Postdoctoral researcher at [Visual Computing research Center](https://vcc.tech).
+2021.4 - now, I am currently a Postdoctoral researcher at [Visual Computing research Center](https://vcc.tech), and my co-advisor is [Prof. Hui Huang](https://vcc.tech/~huihuang).
+
 I obtained my Ph.D. degree under supervision of [Prof. Shunyi Zheng](http://jszy.whu.edu.cn/zhengshunyi/en/index.htm) from [School of Remote Sensing and Information Engineering, Wuhan University](http://rsgis.whu.edu.cn/) in 2018. I received my Bachelor degree from [Central China Normal University](https://github.com/fido20160817/haoma.github.io.git) in 2014.
 
 Email: [haoma.whu@gmail.com](haoma.whu@gmail.com)
