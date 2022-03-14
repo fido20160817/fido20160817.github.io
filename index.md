@@ -36,7 +36,7 @@ _Cogent Engineering_, 2018 [Paper](https://www.tandfonline.com/doi/full/10.1080/
 
 <img align="left" width="210" height="140" src="resources/csca.png">
 
-**_Cross-scale Cost Aggregation Integrating Intrascale Smoothness Constraint with Weighted Lease Squares in Stereo Matching_**  　　　　　　　<br>
+**_Cross-scale Cost Aggregation Integrating Intrascale Smoothness Constraint with Weighted Lease Squares in Stereo Matching_**　　　　　　 <br><br>
 **Hao Ma**, Shunyi Zheng, Chang Li, Yingsong Li, Li Gui, Rongyong Huang<br><br>
 _Journal of the Optical Society of America A – optics, image science and vision_, 2017 [Paper](https://doi.org/10.1364/JOSAA.34.000648)<br><br>
 
@@ -54,7 +54,7 @@ _IEEE Sensors Journal_, 2022 [Paper](https://ieeexplore.ieee.org/document/966454
 
 <img align="left" width="210" height="140" src="resources/efficentHighResolution.png">
 
-**_An Efficient Photogrammetric Stereo Matching Method for High-Resolution Images_**　　　　　　 <br>
+**_An Efficient Photogrammetric Stereo Matching Method for High-Resolution Images_**　　　　　　 <br><br>
 Yingsong Li, Shunyi Zheng, Xiaonan Wang, **Hao Ma**<br><br>
 _Computers & Geosciences_, 2016 [Paper](https://doi.org/10.1016/j.cageo.2016.09.002)<br><br><br>
 
