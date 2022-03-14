@@ -19,7 +19,7 @@ You can also check my publications from [Google Scholar](https://scholar.google.
 <img align="left" width="210" height="140" src="resources/3D-CAE.png">
 
 **_3D convolutional auto-encoder based multi-scale feature extraction for point cloud registration_**　　　　　　 <br>
-**Hao Ma**, Deyu. Yin, Jingbin Liu, Ruizhi Chen<br><br><br>
+**Hao Ma**, Deyu. Yin, Jingbin Liu, Ruizhi Chen<br>
 _Optics and Laser Technology_, 2022 [Paper](https://doi.org/10.1016/j.optlastec.2022.107860)<br><br>
 
 <img align="left" width="210" height="140" src="resources/simple&efficient.png">
@@ -44,7 +44,7 @@ _Journal of the Optical Society of America A – optics, image science and visio
 <img align="left" width="210" height="140" src="resources/gaussian.png">
 
 **_Gaussian mixed model in support of semiglobal matching leveraged by ground control points_**　　　　　　 <br>
-**Hao Ma**, Shunyi Zheng, Chang Li, Yingsong Li, Li Gui<br><br>
+**Hao Ma**, Shunyi Zheng, Chang Li, Yingsong Li, Li Gui<br>
 _Journal of Applied Remote Sensing_, 2017 [Paper](https://doi.org/10.1117/1.JRS.11.025014)<br><br>
 
 <img align="left" width="210" height="140" src="resources/NDT-LOAM.png">
@@ -67,4 +67,4 @@ _Computers & Geosciences_, 2016 [Paper](https://doi.org/10.1016/j.cageo.2016.09.
 * stereo vision
 * image and point cloud registration 
 
-If you are interested in my research or my published papers, you can email to me without hesitation. :D :D
+If you are interested in my research or my published papers, you can email to me without hesitation. 😀😀
