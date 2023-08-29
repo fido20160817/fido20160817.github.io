@@ -17,6 +17,19 @@ Email: [haoma.whu@gmail.com](haoma.whu@gmail.com)
 ## Publications
 You can also check my publications from [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=zqkEkUoAAAAJ)<br><br>
 
+
+<img align="left" width="210" height="140" src="resources/teaser_clip_flow.jpg">
+
+**_CLIP-Flow: Decoding Images Encoded in CLIP Space_**　　　　　　 <br><br>
+**Hao Ma**, Ming Li, Jingyuan Yang, Or Patashnik, Dani Lischinski, Daniel Cohen-Or,  and Hui Huang<br><br>
+_Computational Visual Media_, 2023 (Accepted)<br><br>
+
+<img align="left" width="210" height="140" src="resources/ExeDDPM_GraphicalAbstract.png">
+
+**_Taming Diffusion Model for Exemplar-Based Image Translation_**　　　　　　 <br><br>
+**Hao Ma**, Jingyuan Yang, and Hui Huang<br><br>
+_Computational Visual Media_, 2023 (Accepted)<br><br>
+
 <img align="left" width="210" height="140" src="resources/3D-CAE.png">
 
 **_3D convolutional auto-encoder based multi-scale feature extraction for point cloud registration_**　　　　　　 <br><br>
