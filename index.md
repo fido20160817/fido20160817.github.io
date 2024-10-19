@@ -22,7 +22,7 @@ You can also check my publications from [Google Scholar](https://scholar.google.
 
 **_CLIP-Flow: Decoding Images Encoded in CLIP Space_**　　　　　　 <br><br>
 **Hao Ma**, Ming Li, Jingyuan Yang, Or Patashnik, Dani Lischinski, Daniel Cohen-Or,  and Hui Huang<br><br>
-_Computational Visual Media_, 2023 (Accepted)<br><br>
+_Computational Visual Media_, 2024 [Paper](https://link.springer.com/article/10.1007/s41095-023-0375-z?fromPaywallRec=false)<br><br>
 
 <img align="left" width="210" height="140" src="resources/ExeDDPM_GraphicalAbstract.png">
 
