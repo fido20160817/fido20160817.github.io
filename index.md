@@ -28,7 +28,7 @@ _Computational Visual Media_, 2024 [Paper](https://link.springer.com/article/10.
 
 **_Taming Diffusion Model for Exemplar-Based Image Translation_**　　　　　　 <br><br>
 **Hao Ma**, Jingyuan Yang, and Hui Huang<br><br>
-_Computational Visual Media_, 2023 (Accepted)<br><br>
+_Computational Visual Media_, 2024 [Paper](https://link.springer.com/article/10.1007/s41095-023-0371-3)<br><br>
 
 <img align="left" width="210" height="140" src="resources/3D-CAE.png">
 
